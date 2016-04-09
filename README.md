@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 create slideshow for yii framework 
 ===================================
 you can the install composer extension 
@@ -29,3 +30,7 @@ Once the extension is installed, simply use it in your code by  :
 
 ```php
 <?= \persian\slideshow\AutoloadExample::widget(); ?>```
+=======
+# persian-slideshow
+you can the install composer extension
+>>>>>>> 7666df969746fd56bed79956f7a1122cd59fec4d
