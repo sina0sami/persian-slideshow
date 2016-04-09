@@ -1,0 +1,21 @@
+{
+    "name": "persian/yii2-slideshow",
+    "description": "you can the install composer extension ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","slideshow"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "sina asadi",
+            "email": "sina000sami@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "persian\\slideshow\\": ""
+        }
+    }
+}
